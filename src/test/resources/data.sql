@@ -1,0 +1,3 @@
+INSERT INTO DB_CASH_CARD(ID, AMOUNT, OWNER) VALUES (99, 123.45, 'gmanoltzas@quento.eu');
+INSERT INTO DB_CASH_CARD(ID, AMOUNT, OWNER) VALUES (100, 100.00, 'gmanoltzas@quento.eu');
+INSERT INTO DB_CASH_CARD(ID, AMOUNT, OWNER) VALUES (101, 150.00, 'random-user@example.com');

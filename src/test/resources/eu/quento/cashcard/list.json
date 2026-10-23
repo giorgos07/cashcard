@@ -1,0 +1,17 @@
+[
+  {
+    "id": 99,
+    "amount": 123.45,
+    "owner": "gmanoltzas@quento.eu"
+  },
+  {
+    "id": 100,
+    "amount": 100.00,
+    "owner": "gmanoltzas@quento.eu"
+  },
+  {
+    "id": 101,
+    "amount": 150.00,
+    "owner": "random-user@example.com"
+  }
+]
